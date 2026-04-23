@@ -2,10 +2,10 @@
 chcp 65001 >nul
 
 :: --- НАСТРОЙКИ ---
-set "SITE_URL=https://www.youtube.com/watch?v=iGTQHchdneQ"
-set "MUSIC_URL=https://raw.githubusercontent.com/Pecennn/testik/main/myzika.mp4"
+set "SITE_URL=https://www.youtube.com/watch?v=5JpA5SVVpac"
+set "MUSIC_URLhttps://raw.githubusercontent.com/Pecennn/testik/refs/heads/main/sex.mp4"
 set "BASE_RAW=https://raw.githubusercontent.com/Pecennn/testik/main"
-set "PHOTOS=a4.png kani.png lenin.png lev.png mge.png noshka.png shrek.png svin.png negritos.png"
+set "PHOTOS=a4.png kani.png lenin.png lev.png mge.png noshka.png shrek.png svin.png negritos.png kon.png pchelkon.png iaico.png polynichka.png"
 set "WALL_URL=https://raw.githubusercontent.com/Pecennn/testik/main/%%D0%%BA%%D0%%BE%%D0%%BD%%D1%%8C.png"
 
 :: [1/3] Загрузка ресурсов (в скрытом режиме)
